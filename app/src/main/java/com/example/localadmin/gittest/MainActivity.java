@@ -16,6 +16,8 @@ public class MainActivity extends ActionBarActivity {
 
         Log.d("foobar", "Kneel before zod!");
 
+        //this is a new change on RegiBranch
+
     }
 
 
